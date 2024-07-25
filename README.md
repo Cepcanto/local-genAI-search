@@ -6,7 +6,7 @@ laptop or computer (developed with MacBookPro M2 with 32BG RAM).
 
 The main goal of the project is that it lets user ask questions 
 about content of their local files, which it answers in 
-concise manner with referencing relevant documents that can be 
+concise manner with referencing relevant documents that can be  
 then opened. 
 
 ![img.png](img.png)
